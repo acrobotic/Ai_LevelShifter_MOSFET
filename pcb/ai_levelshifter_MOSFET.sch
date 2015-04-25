@@ -9997,7 +9997,7 @@ This library includes discrete semiconductor devices such as diodes, FETs, etc.
 <part name="R8" library="Ai_Passives" deviceset="RES" device="0603" value="10K"/>
 <part name="FRAME1" library="Ai_Miscellany" deviceset="FRAME-LETTER" device="">
 <attribute name="AUTHOR" value="A.I. HARDWARE SITH LORDS"/>
-<attribute name="REV" value="1.0"/>
+<attribute name="REV" value="1.1"/>
 </part>
 <part name="J1" library="Ai_Connectors" deviceset="1X06" device=""/>
 <part name="U$1" library="Ai_Miscellany" deviceset="AI-LOGO" device="XS"/>
